@@ -1,2 +1,4 @@
 # Colors
-This repository contains the starter files for the Colors project
+
+## Objective
+Create a console application that allows the user to manipulate and search a list of colors.
